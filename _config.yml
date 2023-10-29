@@ -28,7 +28,7 @@ twitter_username:
 github_username:  klwalker-sb
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
