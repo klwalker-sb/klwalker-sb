@@ -21,12 +21,12 @@
 title: Kendra Walker
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-I am an applied scientist with a passion for exploring complex social-ecological problems through 
-multilayered analysis and innovative tool-building. My work focuses on agriculture and forest-based
-systems and the decision making at individual and institutional levels that influences these systems.
-I make extensive use of remote sensing, machine learning, and GIS to identify trends in land use change
-and couple these with tools including impact evaluation, cost-benefit analysis, agent-based modeling,
-and on-the-ground interviews to help understand drivers and the decision making behind these processes.  
+  I am an applied scientist with a passion for exploring complex social-ecological problems through 
+  multilayered analysis and innovative tool-building. My work focuses on agriculture and forest-based
+  systems and the decision making at individual and institutional levels that influences these systems.
+  I make extensive use of remote sensing, machine learning, and GIS to identify trends in land use change
+  and couple these with tools including impact evaluation, cost-benefit analysis, agent-based modeling,
+  and on-the-ground interviews to help understand drivers and the decision making behind these processes.  
 baseurl: "/klwalker-sb"
 url: "https://klwalker-sb.github.io"
 twitter_username: 
