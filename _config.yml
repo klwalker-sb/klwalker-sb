@@ -29,8 +29,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/klwalker-sb"
 url: "https://klwalker-sb.github.io" 
 github_username:  klwalker-sb
-linkedin_username: kendra-walker-7b0982287
-#google_scholar_username: [Kendra Walker](https://scholar.google.com/citations?user=q0pPKAgAAAAJ&hl=en)
+linkedin_username: kendra-walker-7b098228
+
+ social_links:
+     - { platform: github,         user_url: "https://github.com/klwalker-sb/klwalker-sb" }
+     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=q0pPKAgAAAAJ&hl=en"}
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kendra-walker-7b0982287" }
+
 # Build settings
 # removed minima theme -- now using cayman as a regular theme
 # theme: minima
