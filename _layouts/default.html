@@ -18,10 +18,9 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       .text {align-self: flex-end;}
-      .image{width: 100px; height: 200px;}
+      .image{width: 10px; height: 20px;}
       .paragraph {display: flex;}
-      <p class="paragraph">
-        <img src="assets/KW_profile.jpg" alt="profile_pic" class="image"><span class = "project-tagline">{{ page.description | default: site.description }}</span>
+      <p><img src="assets/KW_profile.jpg" alt="profile_pic" style="display:inline-block; padding-right:10px; width:42px; height:84px;">site.description </p>
       </p>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
