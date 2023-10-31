@@ -28,20 +28,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   agent-based modeling, and on-the-ground interviews to help understand drivers and decisions behind these processes.  
 baseurl: "/klwalker-sb"
 url: "https://klwalker-sb.github.io" 
-github_username:  klwalker-sb
-linkedin_username: kendra-walker-7b098228
 
- social_links:
-     - { platform: github,         user_url: "https://github.com/klwalker-sb/klwalker-sb" }
-     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=q0pPKAgAAAAJ&hl=en"}
-     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kendra-walker-7b0982287" }
+minima:
+  social_links:
+    - { platform: github,         user_url: "https://github.com/klwalker-sb/klwalker-sb" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=q0pPKAgAAAAJ&hl=en"}
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kendra-walker-7b0982287" }
 
 # Build settings
 # removed minima theme -- now using cayman as a regular theme
 # theme: minima
 # remote_theme: "pages-themes/cayman@v0.2.0"
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-remote-theme
 # turning off `view source code` button
 github:
