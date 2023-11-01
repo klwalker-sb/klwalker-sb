@@ -130,14 +130,14 @@ a {
   justify-content: center;
   flex-wrap: nowrap;
   align-items: stretch;
-  height: 40px;
+  height: 50px;
   }
 
-  .icon_bar > li {
-    flex-basis: 350px; /* width: 350px; */
+  .icons > li {
+    flex-basis: 40px; /* width: 40px; */
   }
 
-  .icon_bar li img {
+  .icons li img {
     object-fit: cover;
     max-width: 100%;
     height: auto;
