@@ -124,6 +124,25 @@ a {
   }
 }
 
+#icon_bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  
+  #icons {
+      width: 50%;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+
+      img {
+          width: 2em;
+      }
+  }
+}
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
