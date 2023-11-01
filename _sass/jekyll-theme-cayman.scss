@@ -130,7 +130,19 @@ a {
   justify-content: center;
   flex-wrap: nowrap;
   align-items: stretch;
-  height: 16px;
+  height: 40px;
+  }
+
+  .icon_bar > li {
+    flex-basis: 350px; /* width: 350px; */
+  }
+
+  .icon_bar li img {
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 5px;
   }
 
 .project-name {
