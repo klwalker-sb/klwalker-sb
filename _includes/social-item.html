@@ -1,8 +1,5 @@
 <li>{% assign entry = include.item %}
-  <style> 
-    icon {width:16px;height: 16px;}
-  </style>
     <a href="{{ entry.user_url }}" target="_blank" title="{{ entry.title | default: entry.platform }}"> 
-      <img src="assets/social-icons/{{entry.platform}}.png" style="width:16px;height:16px;"/>
+      <img src="social-icons/{{entry.platform}}.png" style="width:16px;height:16px;"/>
     </a>
 </li>
