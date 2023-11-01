@@ -124,18 +124,18 @@ a {
   }
 }
 
-#icon_bar {
+.icon_bar {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 40px;
   
-  #icons {
+  .icons {
       width: 50%;
       display: flex;
       justify-content: space-between;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
 
       img {
           width: 2em;
