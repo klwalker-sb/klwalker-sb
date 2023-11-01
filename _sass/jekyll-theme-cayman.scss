@@ -131,18 +131,7 @@ a {
   flex-wrap: nowrap;
   align-items: stretch;
   height: 16px;
-  
-  .icons {
-      width: 50%;
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: nowrap;
-
-      img {
-          width: 2em;
-      }
   }
-}
 
 .project-name {
   margin-top: 0;
