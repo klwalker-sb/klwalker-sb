@@ -30,7 +30,7 @@ baseurl: "/klwalker-sb"
 url: "https://klwalker-sb.github.io" 
 
 social_links:
-  - { platform: github,         user_url: "https://github.com/klwalker-sb/klwalker-sb" }
+  - { platform: github,         user_url: "https://github.com/klwalker-sb" }
   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=q0pPKAgAAAAJ&hl=en"}
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kendra-walker-7b0982287" }
 
