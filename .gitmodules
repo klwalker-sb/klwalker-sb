@@ -1,0 +1,3 @@
+[submodule "cropburn"]
+	path = cropburn
+	url = https://github.com/klwalker-sb/cropburn
