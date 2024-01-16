@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cropburn
-permalink: https://github.com/klwalker-sb/klwalker-sb/cropburn
+permalink: /cropburn/
 ---
 
 [redirect](https://github.com/klwalker-sb/cropburn)
